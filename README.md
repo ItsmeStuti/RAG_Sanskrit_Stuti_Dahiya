@@ -35,7 +35,7 @@ Documents → Ingestion → Chunking → Embedding → FAISS Index → Retrieval
 
 ### 1. Clone Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ItsmeStuti/RAG_Sanskrit_Stuti_Dahiya.git
 cd RAG_Sanskrit_Stuti_Dahiya
 ```
 
